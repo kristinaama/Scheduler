@@ -26,7 +26,7 @@ The HTML, CSS, and JavaScript code can be downloaded via the Scheduler folder on
 
 This work day scheduler is intended for easy viewing and navigation. The time blocks are colored to indicate the time frame the user has in their day. The grey blocks indicate scheduled events in the past, the red block indicates the current time block, and the green blocks indicate the future time blocks. Write an appointment in the designated time block and click the Save button. Events will be saved in that time frame, even if the page is refreshed.
 
-![Work Day Scheduler Screenshot](./assets/images/screenshot.png)
+![Work Day Scheduler Screenshot](./Assets/images/screenshot.png)
 
 ## Credits
 
